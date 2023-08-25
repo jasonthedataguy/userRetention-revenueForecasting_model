@@ -28,3 +28,9 @@ This project is licensed under the MIT License.
 
 ## Disclaimer
 Please note that the User Retention and Revenue Forecasting Model is provided for informational purposes only. The model's predictions and results may not be accurate in all scenarios. Use the model and the information it provides at your own discretion and assess its suitability for your specific business needs.
+
+## Dashboard Template 
+This is the template for the dashboard to monitor model performance
+
+![Alt text](https://github.com/jasonthedataguy/userRetention-revenueForecasting_model/blob/main/template.png)
+
